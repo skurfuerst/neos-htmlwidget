@@ -9,6 +9,9 @@
         "neos/fusion-afx": "^1.0 ||~7.0 ||  dev-master",
         "flowpack/nodetemplates": "~1.0 || dev-master"
     },
+    "suggest": {
+        "flowpack/nodetemplates": "for better UX"
+    },
     "authors": [
         {
             "name": "Roland Schütz",
